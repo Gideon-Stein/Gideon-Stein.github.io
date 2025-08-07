@@ -95,7 +95,7 @@ permalink: /datenschutz/
       Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
     </p>
     <p>
-      Tim Büchner
+      Gideon Stein
     </p>
     <p>
       Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.&nbsp;B. Namen, E-Mail-Adressen o. Ä.) entscheidet.

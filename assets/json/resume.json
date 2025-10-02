@@ -29,8 +29,8 @@
       "url": "https://inf-cv.uni-jena.de/",
       "startDate": "2021-05-01",
       "endDate": "",
-      "summary": "Detection and attribution of changes in soil temperature as affected by plant diversity and climate. Combining Causal Inference and Biodiversity research.Focus on the evaluation of Causal Discovery algorithms",
-      "highlights": ["Causal Discovery, Causal Inference, Deep Learning"]
+      "summary": "Focus on the evaluation and development of Causal Discovery algorithms in real-world applications.",
+      "highlights": ["Causal Discovery, Causal Inference, Deep Learning", "Biodiversity research"]
     },
     {
       "name": "Friedrich Schiller University Jena",
@@ -98,6 +98,13 @@
       "awarder": "ITMO University",
       "url": "",
       "summary": ""
+    },
+    {
+    "title": "Most innovative thinker award",
+    "date": "2025-09-01",
+    "awarder": "ELLIS summer school Jena",
+    "url": "",
+    "summary": ""
     }
   ],
 
@@ -107,12 +114,25 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Causal Inference",
-        "Causal Discovery",
         "Deep Learning",
-        "Time series",
-        "Remote sensing applications",
-        "Computer Vision"
+        "Causal Inference",
+        "Time series analysis",
+        "Gen AI",
+        "Remote sensing applications"
+      ]
+    },
+    {
+      "name": "Software engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "Pytorch/Lightning/Hydra",
+        "Slurm",
+        "Docker",
+        "Web",
+        "Solidity",
+        "Linux/Rasperri Pi"
       ]
     },
     {
@@ -124,19 +144,6 @@
         "LaTeX",
         "Public speaking",
         "Critical thinking"
-      ]
-    },
-    {
-      "name": "Software engineering",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "Pytorch/Lightning/Hydra",
-        "Slurm/Docker",
-        "Web",
-        "Solidity",
-        "Linux/Rasperri Pi"
       ]
     }
   ],

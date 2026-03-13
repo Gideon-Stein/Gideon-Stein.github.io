@@ -381,7 +381,7 @@ ninja.data = [{
           section: "News",},{id: "news-my-and-my-team-won-the-most-innovative-thinker-award-at-ellis-summer-school-jena",
           title: 'My and my team won the most innovative thinker award at Ellis Summer...',
           description: "",
-          section: "News",},{id: "news-two-in-a-row-i-will-be-at-iclr2026-with-a-poster-on-tcd-arenahappy-to-meet-you-there",
+          section: "News",},{id: "news-two-in-a-row-i-will-be-at-iclr2026-with-a-poster-on-tcd-arena-happy-to-meet-you-there",
           title: 'Two in a row 😎! I will be at ICLR2026 with a poster...',
           description: "",
           section: "News",},{id: "projects-project-1",

@@ -3,12 +3,12 @@
     "name": "Gideon Stein",
     "label": "Machine Learning Researcher",
     "image": "",
-    "email": "gideon@steinml.de",
-    "phone": "",
-    "url": "https://www.steinml.de",
-    "summary": "A machine learning scientist with a special focus on Causal Inference and real-world applications.",
+    "email": "gideon.stein@uni-jena.de",
+    "phone": "+49 176 4565 1723",
+    "url": "https://gideon-stein.github.io/",
+    "summary": "I am a Machine Learning Researcher and PhD candidate specializing in Causal Discovery, Time Series Processing, and Deep Learning. My vision is to build automated systems that extract causal structure from observational data, fundamentally rethinking how we uncover complex relationships in both the sciences and the private sector. Currently I am laying the groundwork for this by constructing large-scale benchmarks and working on foundation models.",
     "location": {
-      "address": "",
+      "address": "Humboldtstraße 19",
       "postalCode": "07743",
       "city": "Jena",
       "countryCode": "DE",
@@ -25,59 +25,53 @@
   "work": [
     {
       "name": "Friedrich Schiller University Jena",
-      "position": "PhD Candidate",
+      "position": "PhD Candidate: Causal Discovery in Real-world Applications",
       "url": "https://inf-cv.uni-jena.de/",
       "startDate": "2021-05-01",
       "endDate": "",
-      "summary": "Focus on the evaluation and development of Causal Discovery algorithms in real-world applications.",
-      "highlights": ["Causal Discovery, Causal Inference, Deep Learning", "Biodiversity research"]
+      "summary": "PhD project in cooperation with the CVG Jena and iDiv. Focus on the construction of large-scale benchmarks for causal discovery with downstream applications in biodiversity research.",
+      "highlights": ["Causal Discovery", "Time Series Processing", "Deep Learning", "Biodiversity research"]
     },
     {
       "name": "Friedrich Schiller University Jena",
-      "position": "Doctoral Researcher",
+      "position": "Research Associate: KI4KI - Remote Sensing",
       "url": "https://inf-cv.uni-jena.de/",
       "startDate": "2022-05-01",
-      "endDate": "2025-12-31",
-      "summary": "Research project: Remote sensing for large infrastructure monitoring",
-      "highlights": ["Remote sensing, Machine Learning, Sentinel-Mission"]
-    },
-    {
-      "name": "EasyMedBox",
-      "position": "Early State software engineering",
-      "url": "https://easymedbox.de/",
-      "startDate": "2022-03-01",
-      "endDate": "2023-02-01",
-      "summary": "Helped with product development during the founding phase",
-      "highlights": ["Startup, hardware-software integration, product development"]
-    },
-    {
-      "name": "Bliro",
-      "position": "Early State software engineering",
-      "url": "https://www.bliro.io/",
-      "startDate": "2022-05-01",
-      "endDate": "2023-09-01",
-      "summary": "Helped with product development during the founding phase",
-      "highlights": ["Startup, Text-to-speech, product development"]
-    },
-    {
-      "name": "steinML",
-      "position": "Freelancer (self-employed)",
-      "startDate": "2020-08-01",
       "endDate": "",
-      "summary": "Consulting on Machine Learning and related topics."
+      "summary": "Research on satellite-based dam deformation forecasting for large infrastructure monitoring.",
+      "highlights": ["Remote sensing", "Machine Learning", "Satellite data"]
+    },
+    {
+      "name": "steinML / EasyMedBox / bliro.io / Desko",
+      "position": "Freelance ML Consultant & Software Engineering",
+      "startDate": "2020-09-01",
+      "endDate": "",
+      "summary": "Machine learning consulting, feasibility studies on VLMs and ASR systems, and early-stage product development for tech startups parallel to doctoral research.",
+      "highlights": ["ML consulting", "VLMs", "ASR systems", "Startup product development"]
     }
   ],
   "education": [
     {
+      "institution": "Friedrich Schiller University Jena",
+      "location": "Jena, Germany",
+      "url": "https://inf-cv.uni-jena.de/",
+      "area": "Causal Discovery in Real-world Applications",
+      "studyType": "PhD",
+      "startDate": "2021-05-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Causal Discovery", "Time Series Processing", "Deep Learning", "Biodiversity research"]
+    },
+    {
       "institution": "ITMO University",
       "location": "St. Petersburg, Russia",
       "url": "https://en.itmo.ru/",
-      "area": "Machine Learning & Data Science",
+      "area": "Machine Learning & Data Analysis",
       "studyType": "Master of Science",
       "startDate": "2018-09-01",
       "endDate": "2020-08-01",
       "score": "",
-      "courses": ["Deep Learning, Algorithmic optimization, Machine Learning"]
+      "courses": ["Deep Learning", "Reinforcement Learning", "Independent research publications"]
     },
     {
       "institution": "University of Bayreuth",
@@ -85,10 +79,10 @@
       "url": "https://www.uni-bayreuth.de/en",
       "area": "Philosophy & Economics",
       "studyType": "Bachelor of Arts",
-      "startDate": "2014-09-1",
+      "startDate": "2014-09-01",
       "endDate": "2018-07-01",
       "score": "",
-      "courses": ["Decision Making, Statistics, Game Theory"]
+      "courses": ["Game Theory", "Decision Theory", "Statistics"]
     }
   ],
   "awards": [
@@ -110,40 +104,34 @@
 
   "skills": [
     {
-      "name": "Machine Learning",
+      "name": "Research Focus",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-flask",
       "keywords": [
+        "Causal Discovery",
         "Deep Learning",
-        "Causal Inference",
-        "Time series analysis",
-        "Gen AI",
-        "Remote sensing applications"
+        "Time-Series Processing",
+        "Benchmarking",
+        "Reinforcement Learning"
       ]
     },
     {
-      "name": "Software engineering",
+      "name": "Frameworks and Tools",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
-        "Pytorch/Lightning/Hydra",
+        "PyTorch",
+        "PyTorch Lightning",
+        "Hydra",
         "Slurm",
         "Docker",
-        "Web",
-        "Solidity",
-        "Linux/Rasperri Pi"
-      ]
-    },
-    {
-      "name": "Scientific",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Scientific writing",
-        "LaTeX",
-        "Public speaking",
-        "Critical thinking"
+        "Git",
+        "Scikit",
+        "Pandas",
+        "NumPy",
+        "OpenCV",
+        "LaTeX"
       ]
     }
   ],
@@ -166,24 +154,19 @@
   ],
   "references": [
     {
-      "name": "Professor Joachim Denzler",
+      "name": "Prof. Dr. Joachim Denzler",
       "icon": "fa-solid fa-laptop",
-      "reference": "Doctor Father"
+      "reference": "FSU Jena - joachim.denzler@uni-jena.de"
     },
     {
-      "name": "Professor Nico Eisenhauer",
+      "name": "Prof. Dr. Nico Eisenhauer",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Supervisor during PhD project"
+      "reference": "iDiv - nico.eisenhauer@idiv.de"
     },
     {
-      "name": "Andrey Filchenkov",
+      "name": "Assoc. Prof. Andrey Filchenkov",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Supervision during Masters programm"
-    },
-    {
-      "name": "Yannick Kupferschmidt",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Worked together @EasymedBox"
+      "reference": "ITMO University - afilchenkov@itmo.ru"
     }
   ]
 }
